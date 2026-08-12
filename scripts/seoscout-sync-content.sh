@@ -4,7 +4,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SEOSCOUT_DIR="$ROOT/seoscout"
-KEYWORDS="$SEOSCOUT_DIR/keywords.json"
+KEYWORDS="$ROOT/站点数据采集目录/keywords.json"
 DEST="$ROOT/content"
 
 if [[ ! -f "$KEYWORDS" ]]; then
