@@ -9,11 +9,11 @@
     "lint": "bunx tsc --noEmit && next lint",
     "format": "bunx biome format --write",
     "seoscout:setup": "bash scripts/setup-seoscout.sh",
-    "seoscout:search": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout search --keywords keywords.json",
-    "seoscout:collect": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout collect --keywords keywords.json",
-    "seoscout:generate": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout generate --keywords keywords.json --prompt prompts/generate.md",
-    "seoscout:translate": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout translate --keywords keywords.json",
-    "seoscout:run": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout run --keywords keywords.json --prompt prompts/generate.md",
+    "seoscout:search": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout search --keywords ../站点数据采集目录/keywords.json",
+    "seoscout:collect": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout collect --keywords ../站点数据采集目录/keywords.json",
+    "seoscout:generate": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout generate --keywords ../站点数据采集目录/keywords.json --prompt prompts/generate.md",
+    "seoscout:translate": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout translate --keywords ../站点数据采集目录/keywords.json",
+    "seoscout:run": "export PATH=\"$HOME/.local/bin:$PATH\" && cd seoscout && seoscout run --keywords ../站点数据采集目录/keywords.json --prompt prompts/generate.md",
     "seoscout:sync": "bash scripts/seoscout-sync-content.sh"
   },
   "dependencies": {
