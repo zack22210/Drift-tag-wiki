@@ -59,6 +59,30 @@ seoscout translate --keywords ../站点数据采集目录/keywords.json   # uses
 
 Review `output/<project>/out/search_results.json` after search and set `"selected": false` on junk before collect.
 
+## Local-first web extraction
+
+This repository patches the installed Seoscout during `seoscout:setup`. Web
+pages are extracted in this order:
+
+1. **Trafilatura** (local, free, fast)
+2. **Crawl4AI** (local browser fallback for JavaScript-heavy pages)
+3. **Jina Reader** (last fallback; works anonymously when `JINA_API_KEY` is empty)
+
+The extractor used for each successful page is stored as `extractor` in the
+web cache metadata. Configure the chain in `seoscout/.env`:
+
+```dotenv
+TRAFILATURA_ENABLED=true
+CRAWL4AI_FALLBACK_ENABLED=true
+JINA_FALLBACK_ENABLED=true
+WEB_MIN_CONTENT_LENGTH=500
+JINA_CONCURRENCY=3
+JINA_RPM=15
+```
+
+Re-run `bun run seoscout:setup` after changing or updating the upstream
+Seoscout installation so the repository override is reapplied.
+
 ## Output layout
 
 ```

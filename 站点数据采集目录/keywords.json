@@ -1,5 +1,6 @@
 {
   "topic_name": "drift tap",
+  "languages": ["es", "pt", "id"],
   "categories": [
     {
       "category": "guide",

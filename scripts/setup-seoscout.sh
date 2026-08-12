@@ -29,8 +29,24 @@ else
   git clone --depth 1 "$SEOSCOUT_REPO" "$SEOSCOUT_SRC"
 fi
 
+python3 "$ROOT/scripts/apply-seoscout-local-extractor.py" \
+  "$SEOSCOUT_SRC" "$ROOT/seoscout/overrides/local_web_extractor.py"
+
 python3 -m pip install --user -e "$SEOSCOUT_SRC"
-python3 -m pip install --user "yt-dlp>=2024.1.0"
+python3 -m pip install --user \
+  "yt-dlp>=2024.1.0" \
+  "trafilatura>=2.0,<3"
+
+# Crawl4AI uses a browser only when Trafilatura cannot extract enough text.
+# Both the package and Chromium are optional: failures must not disable the
+# primary Trafilatura extractor or the final Jina fallback.
+if python3 -m pip install --user "crawl4ai>=0.7,<1"; then
+  if command -v crawl4ai-setup >/dev/null 2>&1; then
+    crawl4ai-setup || echo "WARNING: Crawl4AI browser setup failed; Trafilatura and Jina remain available."
+  fi
+else
+  echo "WARNING: Crawl4AI install failed; Trafilatura and Jina remain available."
+fi
 
 mkdir -p "$SEOSCOUT_CFG"
 if [[ ! -f "$SEOSCOUT_CFG/.env" ]]; then
