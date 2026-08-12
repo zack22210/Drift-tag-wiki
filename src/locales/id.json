@@ -1,0 +1,448 @@
+{
+  "site": {
+    "name": "Finish The Word",
+    "shortName": "FTW",
+    "tagline": "Wiki komunitas non-resmi",
+    "description": "Wiki lengkap Finish The Word di Roblox — aturan rantai kata, pet, win streak, tips ranked, dan strategi agar bertahan lebih lama di setiap lobby. Buatan penggemar.",
+    "legalNotice": "Wiki penggemar non-resmi. Tidak berafiliasi dengan Table Game X atau Roblox."
+  },
+  "nav": {
+    "guide": "Panduan",
+    "codes": "Kode",
+    "pets": "Pet",
+    "ranked": "Ranked",
+    "win-streaks": "Win Streak",
+    "lucky-blocks": "Lucky Block",
+    "game-passes": "Game Pass",
+    "home": "Beranda",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema"
+  },
+  "guide": {
+    "overviewTitle": "Panduan",
+    "overviewDescription": "Tips pemula Finish The Word, aturan rantai kata, dan strategi untuk memenangkan lebih banyak ronde di Roblox."
+  },
+  "codes": {
+    "overviewTitle": "Kode",
+    "overviewDescription": "Status kode Finish The Word, catatan penukaran, dan tempat memantau kode Roblox di masa depan."
+  },
+  "pets": {
+    "overviewTitle": "Pet",
+    "overviewDescription": "Panduan pet Finish The Word mencakup pet terbaik, kemampuan, telur, dan cara pet membantu Anda bertahan lebih lama."
+  },
+  "ranked": {
+    "overviewTitle": "Ranked",
+    "overviewDescription": "Tips mode ranked Finish The Word untuk lobby kompetitif, pilihan kata, dan naik di server yang lebih sulit."
+  },
+  "win-streaks": {
+    "overviewTitle": "Win Streak",
+    "overviewDescription": "Panduan win streak Finish The Word untuk merangkai kemenangan, mendapat cash, dan menjaga streak Anda."
+  },
+  "lucky-blocks": {
+    "overviewTitle": "Lucky Block",
+    "overviewDescription": "Panduan lucky block Finish The Word untuk membuka hadiah lebih cepat dan memperluas daftar pet."
+  },
+  "game-passes": {
+    "overviewTitle": "Game Pass",
+    "overviewDescription": "Perbandingan game pass Finish The Word untuk VIP, 10x Open, Spin Faster, Starter Pack, dan lainnya."
+  },
+  "home": {
+    "meta": {
+      "title": "Finish The Word Wiki — Rantai kata, pet & tips",
+      "description": "Wiki lengkap Finish The Word di Roblox — aturan rantai kata, pet, win streak, tips ranked, dan strategi agar bertahan lebih lama. Buatan penggemar."
+    },
+    "hero": {
+      "eyebrow": "Wiki komunitas non-resmi",
+      "title": "Finish The Word Wiki",
+      "description": "Jaga rantai kata tetap hidup di Roblox — ucapkan kata yang diawali huruf terakhir kata sebelumnya, kalahkan timer, dan singkirkan lawan. Kumpulkan pet berkemampuan, bangun win streak, dan naik di lobby ranked dalam party game kata yang cepat ini.",
+      "stats": [
+        "Rilis Mei 2026",
+        "Update Jul 2026",
+        "44.7M+ kunjungan",
+        "73K+ favorit",
+        "90% rating pemain"
+      ],
+      "primaryCta": "Panduan pemula",
+      "secondaryCta": "Pet terbaik",
+      "tertiaryCta": "Tips ranked",
+      "videoLabel": "Media resmi"
+    },
+    "updates": {
+      "title": "Update terbaru",
+      "browse": "Lihat semua panduan",
+      "viewAll": "Lihat semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di sini",
+      "title": "Perjalanan Finish The Word Anda",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan pemula",
+          "description": "Pelajari aturan rantai kata, cara giliran bekerja, dan apa yang membuat Anda tersingkir — semua untuk ronde pertama."
+        },
+        {
+          "number": "2",
+          "title": "Cara menang lebih banyak",
+          "description": "Bangun win streak, dapatkan cash lebih cepat, dan gunakan kata bernilai tinggi saat timer menipis."
+        },
+        {
+          "number": "3",
+          "title": "Pet & kemampuan",
+          "description": "Tetas pet dari telur, pasang bonus kemampuan, dan pelajari pet mana yang membantu bertahan di lobby sulit."
+        },
+        {
+          "number": "4",
+          "title": "Strategi ranked",
+          "description": "Naik di ranked dengan pilihan kata lebih cerdas, timing pet, dan kebiasaan lobby yang membedakan pemain top."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman populer",
+      "title": "Sedang tren",
+      "quickLinks": [
+        "Kode aktif",
+        "Panduan pemula",
+        "Pet terbaik",
+        "Tips ranked"
+      ],
+      "cards": []
+    },
+    "aboutGame": {
+      "title": "Apa itu Finish The Word?",
+      "paragraphs": [
+        "Finish The Word adalah party game multiplayer rantai kata di Roblox oleh Table Game X. Setiap ronde, pemain harus mengucapkan kata yang diawali huruf terakhir kata sebelumnya — Poodle, Elephant, Turtle — tanpa pengulangan dan dengan timer yang semakin ketat hingga hanya otak tercepat yang tersisa.",
+        "Di luar balapan kata inti, game ini menambahkan meta koleksi pet berkemampuan, win streak, hadiah cash, dan lobby ranked. Dengan puluhan juta kunjungan dan rating pemain 90%, game ini menjadi salah satu word game terpanas di Roblox tahun 2026."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Table Game X"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Puzzle / Word Party"
+        },
+        {
+          "label": "Visits",
+          "value": "44.7M+"
+        },
+        {
+          "label": "Favorites",
+          "value": "73K+"
+        },
+        {
+          "label": "Game Passes",
+          "value": "9"
+        },
+        {
+          "label": "Max Players",
+          "value": "25 per server"
+        }
+      ],
+      "cta": "Jelajahi semua panduan"
+    },
+    "explore": {
+      "title": "Modul Finish The Word Wiki",
+      "description": "Lompat ke panduan yang paling sering dicari pemain — kode, pemula, pet, ranked, win streak, lucky block, dan game pass.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Finish The Word Codes",
+          "description": "Cek apakah Finish The Word punya kode aktif terverifikasi di Roblox. Per Juli 2026 developer belum memublikasikan daftar penukaran yang valid, jadi kemenangan, streak, dan pet tetap jalur progres utama.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Tidak ada",
+              "detail": "Belum ada kode aktif terverifikasi per Juli 2026",
+              "badge": "Tidak tersedia"
+            },
+            {
+              "label": "Tidak ada",
+              "detail": "Pantau halaman Roblox dan grup Table Game X untuk pengumuman",
+              "badge": "Info"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Finish The Word Beginner Guide",
+          "description": "Pelajari aturan inti rantai kata Finish The Word di Roblox. Setiap ronde Anda harus mengucapkan kata baru yang diawali huruf terakhir kata sebelumnya — Poodle, Elephant, Turtle — sebelum timer menyingkirkan Anda.",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Buka Finish The Word di Roblox dan masuk lobby multiplayer"
+            },
+            {
+              "label": "2",
+              "detail": "Ucapkan satu kata per giliran yang diawali huruf terakhir kata sebelumnya"
+            },
+            {
+              "label": "3",
+              "detail": "Jangan ulangi kata yang sudah dipakai dalam rantai"
+            },
+            {
+              "label": "4",
+              "detail": "Jawab sebelum timer habis atau Anda tersingkir"
+            },
+            {
+              "label": "5",
+              "detail": "Pasang pet berkemampuan khusus untuk ronde lebih sulit"
+            },
+            {
+              "label": "6",
+              "detail": "Jadilah otak terakhir yang bertahan untuk menang"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Finish The Word Pets Guide",
+          "description": "Finish The Word menambahkan meta koleksi pet di atas ronde rantai kata. Tetas pet dari telur, buka lucky block, dan pasang pet berkemampuan yang memberi waktu, mengubah peluang, atau menekan lawan.",
+          "href": "/pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Telur",
+              "detail": "Tetas pet dengan kemampuan khusus dalam ronde"
+            },
+            {
+              "label": "Lucky Blocks",
+              "detail": "Buka lucky block untuk lebih banyak pet dan hadiah"
+            },
+            {
+              "label": "Spins",
+              "detail": "Gunakan spin untuk mempercepat koleksi pet dan hadiah"
+            },
+            {
+              "label": "School Chair",
+              "detail": "Starter Pack termasuk pet School Chair dan 300 Cash"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Finish The Word Pet Tier List",
+          "description": "Peringkatkan pet terbaik dan pilihan progres di Finish The Word berdasarkan seberapa membantu mereka memenangkan ronde, dari hadiah game pass resmi dan sistem kemampuan di update NEW PETS.",
+          "href": "/pets/tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pet VIP — pass VIP menambah +2 slot, 2x Cash, dan +10 Secret Keys"
+            },
+            {
+              "label": "A",
+              "detail": "Pet Lucky Block — dibuka batch dengan pass 10x Open"
+            },
+            {
+              "label": "B",
+              "detail": "Pet telur — koleksi inti dengan kemampuan memenangkan ronde"
+            },
+            {
+              "label": "C",
+              "detail": "Pet Starter Pack — School Chair plus 300 Cash untuk pemain baru"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Finish The Word Ranked Mode",
+          "description": "Finish The Word kini berjalan sebagai Finish The Word! [ RANKED ] di Roblox. Bertanding di lobby lebih cepat hingga 25 pemain di mana setiap kata valid dan setiap detik berarti.",
+          "href": "/ranked",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Jalankan versi [ RANKED ] saat ini di halaman resmi Roblox"
+            },
+            {
+              "label": "2",
+              "detail": "Antri ke lobby langsung dengan hingga 25 pemain"
+            },
+            {
+              "label": "3",
+              "detail": "Main dengan aturan yang sama: satu kata, tanpa ulang, huruf terakhir"
+            },
+            {
+              "label": "4",
+              "detail": "Menangkan ronde untuk membangun momentum lawan yang lebih kuat"
+            },
+            {
+              "label": "5",
+              "detail": "Pasang pet terkuat sebelum ronde kompetitif"
+            },
+            {
+              "label": "6",
+              "detail": "Siapkan kata cadangan untuk huruf sulit seperti Q, X, dan Z"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Finish The Word Win Streaks",
+          "description": "Win streak adalah loop progres inti di Finish The Word. Rangkai kemenangan untuk lebih banyak cash, jaga streak di lobby sulit, dan kalikan hadiah dengan game pass fokus streak.",
+          "href": "/win-streaks",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Menangkan ronde beruntun untuk memulai streak"
+            },
+            {
+              "label": "2",
+              "detail": "Dapatkan cash dari kemenangan untuk telur, spin, dan lucky block"
+            },
+            {
+              "label": "3",
+              "detail": "Hindari kata berisiko yang bisa memutus streak di huruf sulit"
+            },
+            {
+              "label": "4",
+              "detail": "Gunakan kemampuan pet di momen kunci untuk menjaga streak"
+            },
+            {
+              "label": "5",
+              "detail": "Cari game pass 2x Streak di daftar toko resmi"
+            },
+            {
+              "label": "6",
+              "detail": "Padukan farm streak dengan VIP untuk 2x Cash dan slot ekstra"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Finish The Word Lucky Blocks",
+          "description": "Lucky block adalah salah satu cara tercepat memperluas daftar pet di Finish The Word. Toko resmi menjual pass yang membuka 10 blok sekaligus dan memotong waktu spin.",
+          "href": "/lucky-blocks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "10x Open",
+              "detail": "Buka 10 lucky block sekaligus seharga 39 Robux"
+            },
+            {
+              "label": "Spin Faster",
+              "detail": "Kurangi waktu membuka lucky block seharga 29 Robux"
+            },
+            {
+              "label": "Open 10 Eggs",
+              "detail": "Pass buka telur batch di daftar game pass resmi"
+            },
+            {
+              "label": "Secret Keys",
+              "detail": "VIP termasuk +10 Secret Keys bersama 2x Cash dan 2 slot"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Finish The Word Game Passes",
+          "description": "Bandingkan setiap game pass Finish The Word di toko resmi Roblox. Pass ini mempercepat grind pet, meningkatkan cash dan kemenangan, serta membuka keuntungan VIP.",
+          "href": "/game-passes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "VIP — 399 R$, Chat Tag, 2x Cash, 2 Pets, skin, +10 Secret Keys"
+            },
+            {
+              "label": "A",
+              "detail": "10x Open — 39 R$, buka 10 lucky block sekaligus"
+            },
+            {
+              "label": "B",
+              "detail": "Spin Faster — 29 R$, lebih sedikit waktu membuka lucky block"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Pack — 9 R$, pet School Chair dan 300 Cash"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang sering diajukan",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang Finish The Word.",
+      "items": [
+        {
+          "question": "Apa itu Finish The Word?",
+          "answer": "Finish The Word adalah party game rantai kata gratis di Roblox oleh Table Game X. Pemain bergiliran mengucapkan kata yang diawali huruf terakhir kata sebelumnya, tanpa pengulangan, hingga timer menyingkirkan yang lain."
+        },
+        {
+          "question": "Bagaimana ronde bekerja di Finish The Word?",
+          "answer": "Di Finish The Word, setiap pemain mengucapkan satu kata baru yang diawali huruf terakhir kata sebelumnya. Kata yang diulang tidak valid, dan gagal menjawab sebelum timer habis membuat Anda tersingkir."
+        },
+        {
+          "question": "Apakah Finish The Word punya kode?",
+          "answer": "Per Juli 2026, Finish The Word belum punya kode aktif terverifikasi. Progres datang dari memenangkan ronde, membangun streak, mendapat cash, dan mengumpulkan pet. Pantau halaman Roblox dan grup Table Game X."
+        },
+        {
+          "question": "Apa fungsi pet di Finish The Word?",
+          "answer": "Pet di Finish The Word memberi kemampuan khusus dalam ronde. Tetas dari telur, buka lebih banyak lewat lucky block dan spin, lalu pasang yang membantu Anda bertahan lebih lama di lobby sulit."
+        },
+        {
+          "question": "Bagaimana win streak bekerja di Finish The Word?",
+          "answer": "Win streak di Finish The Word memberi lebih banyak cash dan progres untuk kemenangan beruntun. Jaga streak dengan pilihan kata hati-hati dan kemampuan pet, serta lihat game pass fokus streak jika sering farm ranked."
+        },
+        {
+          "question": "Apakah Finish The Word Wiki resmi?",
+          "answer": "Tidak. Finish The Word Wiki adalah situs panduan independen buatan penggemar dan tidak berafiliasi dengan Table Game X atau Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap menguasai Finish The Word?",
+      "description": "Dari ronde rantai kata pertama hingga lobby ranked dan build pet, wiki komunitas membantu Anda bertahan lebih lama, menang lebih banyak, dan naik papan peringkat.",
+      "primary": "Baca panduan pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi wiki",
+    "activeCodes": "Kode aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar isi",
+    "nextSteps": "Langkah berikutnya",
+    "needHelp": "Butuh bantuan?",
+    "relatedReading": "Bacaan terkait",
+    "relatedGuides": "Panduan terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan. Kembali lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Finish The Word Wiki",
+    "about": "Finish The Word Wiki adalah situs panduan independen buatan penggemar untuk party game rantai kata Table Game X di Roblox. Kami membahas cara bermain, pet, win streak, ranked, dan tips praktis. Tidak berafiliasi dengan Table Game X atau Roblox Corporation.",
+    "quickLinks": "Tautan cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "© 2026 Finish The Word Wiki. Tidak berafiliasi dengan Table Game X atau Roblox.",
+    "description": "Party game rantai kata gratis di Roblox. Kalahkan timer, kumpulkan pet, bangun streak, dan kalahkan setiap lobby.",
+    "playGame": "Main Finish The Word",
+    "officialDiscord": "Discord resmi",
+    "officialYoutube": "YouTube resmi",
+    "communityGroup": "Grup Roblox Table Game X",
+    "vvBuilder": "Grup Roblox Table Game X",
+    "beginnerGuide": "Panduan pemula",
+    "petsGuide": "Panduan pet",
+    "rankedGuides": "Tips ranked",
+    "winStreakGuides": "Win streak",
+    "privacyPolicy": "Kebijakan privasi",
+    "termsOfService": "Ketentuan layanan"
+  }
+}

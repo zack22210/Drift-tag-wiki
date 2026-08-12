@@ -1,0 +1,448 @@
+{
+  "site": {
+    "name": "Finish The Word",
+    "shortName": "FTW",
+    "tagline": "Wiki da comunidade (não oficial)",
+    "description": "Sua wiki completa de Finish The Word no Roblox — regras de correntes de palavras, pets, sequências, dicas de ranked e estratégias para durar mais em cada lobby. Feita por fãs.",
+    "legalNotice": "Wiki de fãs não oficial. Não afiliada à Table Game X nem à Roblox."
+  },
+  "nav": {
+    "guide": "Guia",
+    "codes": "Códigos",
+    "pets": "Pets",
+    "ranked": "Ranked",
+    "win-streaks": "Sequências",
+    "lucky-blocks": "Lucky Blocks",
+    "game-passes": "Passes",
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "guide": {
+    "overviewTitle": "Guias",
+    "overviewDescription": "Dicas para iniciantes de Finish The Word, regras de correntes de palavras e estratégias para vencer mais rodadas no Roblox."
+  },
+  "codes": {
+    "overviewTitle": "Códigos",
+    "overviewDescription": "Status dos códigos de Finish The Word, notas de resgate e onde acompanhar futuros códigos do Roblox."
+  },
+  "pets": {
+    "overviewTitle": "Pets",
+    "overviewDescription": "Guias de pets de Finish The Word com melhores pets, habilidades, ovos e como eles ajudam você a sobreviver mais."
+  },
+  "ranked": {
+    "overviewTitle": "Ranked",
+    "overviewDescription": "Dicas do modo ranked de Finish The Word para lobbies competitivos, escolha de palavras e subir em servidores difíceis."
+  },
+  "win-streaks": {
+    "overviewTitle": "Sequências",
+    "overviewDescription": "Guias de sequências de Finish The Word para encadear vitórias, ganhar cash e proteger sua streak."
+  },
+  "lucky-blocks": {
+    "overviewTitle": "Lucky Blocks",
+    "overviewDescription": "Guias de lucky blocks de Finish The Word para abrir recompensas mais rápido e expandir seu elenco de pets."
+  },
+  "game-passes": {
+    "overviewTitle": "Game Passes",
+    "overviewDescription": "Comparativos de game passes de Finish The Word: VIP, 10x Open, Spin Faster, Starter Pack e mais."
+  },
+  "home": {
+    "meta": {
+      "title": "Finish The Word Wiki — Correntes, pets e dicas",
+      "description": "Sua wiki completa de Finish The Word no Roblox — regras de correntes de palavras, pets, sequências, dicas de ranked e estratégias para durar mais. Feita por fãs."
+    },
+    "hero": {
+      "eyebrow": "Wiki da comunidade (não oficial)",
+      "title": "Finish The Word Wiki",
+      "description": "Mantenha a corrente de palavras viva no Roblox — diga uma palavra que comece com a última letra da anterior, vença o timer e elimine seus rivais. Colecione pets com habilidades, monte sequências e suba nos lobbies ranked neste party game de palavras.",
+      "stats": [
+        "Lançado mai 2026",
+        "Atualizado jul 2026",
+        "44.7M+ visitas",
+        "73K+ favoritos",
+        "90% avaliação"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Melhores pets",
+      "tertiaryCta": "Dicas de ranked",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Finish The Word",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda as regras da corrente, como funcionam os turnos e o que te elimina — tudo para sua primeira rodada."
+        },
+        {
+          "number": "2",
+          "title": "Como vencer mais rodadas",
+          "description": "Monte sequências, ganhe cash mais rápido e use palavras de alto valor quando o tempo aperta."
+        },
+        {
+          "number": "3",
+          "title": "Pets e habilidades",
+          "description": "Choque pets de ovos, equipe bônus e descubra quais ajudam você a sobreviver em lobbies difíceis."
+        },
+        {
+          "number": "4",
+          "title": "Estratégia de ranked",
+          "description": "Suba no ranked com melhores palavras, timing de pets e hábitos de lobby que fazem diferença."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Códigos ativos",
+        "Guia para iniciantes",
+        "Melhores pets",
+        "Dicas de ranked"
+      ],
+      "cards": []
+    },
+    "aboutGame": {
+      "title": "O que é Finish The Word?",
+      "paragraphs": [
+        "Finish The Word é um party game multijogador de correntes de palavras no Roblox da Table Game X. Em cada rodada, os jogadores devem dizer uma palavra que comece com a última letra da anterior — Poodle, Elephant, Turtle — sem repetições e com um timer cada vez menor até restar só o cérebro mais afiado.",
+        "Além da corrida de palavras, o jogo adiciona pets com habilidades, sequências, recompensas de cash e lobbies ranked. Com dezenas de milhões de visitas e 90% de avaliação, tornou-se um dos jogos de palavras mais quentes do Roblox em 2026."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Table Game X"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Puzzle / Word Party"
+        },
+        {
+          "label": "Visits",
+          "value": "44.7M+"
+        },
+        {
+          "label": "Favorites",
+          "value": "73K+"
+        },
+        {
+          "label": "Game Passes",
+          "value": "9"
+        },
+        {
+          "label": "Max Players",
+          "value": "25 per server"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Módulos da Finish The Word Wiki",
+      "description": "Vá aos guias que os jogadores mais buscam — códigos, iniciantes, pets, ranked, sequências, lucky blocks e game passes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Finish The Word Codes",
+          "description": "Veja se Finish The Word tem códigos ativos verificados no Roblox. Em julho de 2026 o desenvolvedor não publicou uma lista válida de resgate, então vitórias, sequências e pets seguem como o caminho principal de progresso.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Nenhum",
+              "detail": "Nenhum código ativo verificado em julho de 2026",
+              "badge": "Indisponível"
+            },
+            {
+              "label": "Nenhum",
+              "detail": "Acompanhe a página do Roblox e o grupo Table Game X",
+              "badge": "Info"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Finish The Word Beginner Guide",
+          "description": "Aprenda as regras centrais da corrente de palavras de Finish The Word no Roblox. Em cada rodada você deve dizer uma palavra nova que comece com a última letra da anterior — Poodle, Elephant, Turtle — antes do timer te eliminar.",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abra Finish The Word no Roblox e entre em um lobby multiplayer"
+            },
+            {
+              "label": "2",
+              "detail": "Diga uma palavra por vez que comece com a última letra da anterior"
+            },
+            {
+              "label": "3",
+              "detail": "Nunca repita uma palavra já usada na corrente"
+            },
+            {
+              "label": "4",
+              "detail": "Responda antes do timer acabar ou você é eliminado"
+            },
+            {
+              "label": "5",
+              "detail": "Equipe pets com habilidades especiais para rodadas difíceis"
+            },
+            {
+              "label": "6",
+              "detail": "Seja o último cérebro de pé para vencer a rodada"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Finish The Word Pets Guide",
+          "description": "Finish The Word adiciona um meta de coleção de pets às rodadas de corrente. Choque pets de ovos, abra lucky blocks e equipe pets com habilidades que compram tempo, mudam as chances ou pressionam rivais.",
+          "href": "/pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ovos",
+              "detail": "Choque pets com habilidades especiais na rodada"
+            },
+            {
+              "label": "Lucky Blocks",
+              "detail": "Abra lucky blocks para mais pets e recompensas"
+            },
+            {
+              "label": "Spins",
+              "detail": "Use spins para acelerar a coleta de pets e prêmios"
+            },
+            {
+              "label": "School Chair",
+              "detail": "O Starter Pack inclui o pet School Chair e 300 Cash"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Finish The Word Pet Tier List",
+          "description": "Rankeie os melhores pets e opções de progresso em Finish The Word pelo quanto ajudam a vencer rodadas, com base em recompensas de game passes e no sistema de habilidades da atualização NEW PETS.",
+          "href": "/pets/tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pets VIP — o passe VIP adiciona +2 slots, 2x Cash e +10 Secret Keys"
+            },
+            {
+              "label": "A",
+              "detail": "Pets de Lucky Block — abertos em lote com o passe 10x Open"
+            },
+            {
+              "label": "B",
+              "detail": "Pets de ovo — colecionáveis com habilidades para vencer"
+            },
+            {
+              "label": "C",
+              "detail": "Pets do Starter Pack — School Chair mais 300 Cash para novos"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Finish The Word Ranked Mode",
+          "description": "Finish The Word agora roda como Finish The Word! [ RANKED ] no Roblox. Compita em lobbies mais rápidos com até 25 jogadores onde cada palavra válida e cada segundo contam.",
+          "href": "/ranked",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abra a versão [ RANKED ] atual na página oficial do Roblox"
+            },
+            {
+              "label": "2",
+              "detail": "Entre na fila de um lobby ao vivo com até 25 jogadores"
+            },
+            {
+              "label": "3",
+              "detail": "Jogue com as mesmas regras: uma palavra, sem repetição, última letra"
+            },
+            {
+              "label": "4",
+              "detail": "Vença rodadas para ganhar impulso contra rivais mais fortes"
+            },
+            {
+              "label": "5",
+              "detail": "Equipe seus melhores pets antes de rodadas competitivas"
+            },
+            {
+              "label": "6",
+              "detail": "Tenha palavras reserva para letras difíceis como Q, X e Z"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Finish The Word Win Streaks",
+          "description": "Sequências são um loop central de progresso em Finish The Word. Encadeie vitórias para ganhar mais cash, proteja sua streak em lobbies difíceis e multiplique recompensas com passes focados em streak.",
+          "href": "/win-streaks",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Vença rodadas consecutivas para começar uma sequência"
+            },
+            {
+              "label": "2",
+              "detail": "Ganhe cash com vitórias para ovos, spins e lucky blocks"
+            },
+            {
+              "label": "3",
+              "detail": "Evite palavras arriscadas que quebrem a streak em letras difíceis"
+            },
+            {
+              "label": "4",
+              "detail": "Use habilidades de pets em momentos-chave para manter a streak"
+            },
+            {
+              "label": "5",
+              "detail": "Procure o game pass 2x Streak na loja oficial"
+            },
+            {
+              "label": "6",
+              "detail": "Combine farm de streak com VIP para 2x Cash e mais slots"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Finish The Word Lucky Blocks",
+          "description": "Lucky blocks são uma das formas mais rápidas de expandir seu elenco de pets em Finish The Word. A loja oficial vende passes que abrem 10 blocos de uma vez e cortam tempos de spin.",
+          "href": "/lucky-blocks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "10x Open",
+              "detail": "Abra 10 lucky blocks de uma vez por 39 Robux"
+            },
+            {
+              "label": "Spin Faster",
+              "detail": "Gaste menos tempo abrindo lucky blocks por 29 Robux"
+            },
+            {
+              "label": "Open 10 Eggs",
+              "detail": "Passe para abrir ovos em lote na lista oficial"
+            },
+            {
+              "label": "Secret Keys",
+              "detail": "O VIP inclui +10 Secret Keys junto com 2x Cash e 2 slots"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Finish The Word Game Passes",
+          "description": "Compare cada game pass de Finish The Word na loja oficial do Roblox. Esses passes aceleram o farm de pets, aumentam cash e vitórias e desbloqueiam vantagens VIP.",
+          "href": "/game-passes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "VIP — 399 R$, Chat Tag, 2x Cash, 2 Pets, skins, +10 Secret Keys"
+            },
+            {
+              "label": "A",
+              "detail": "10x Open — 39 R$, abre 10 lucky blocks de uma vez"
+            },
+            {
+              "label": "B",
+              "detail": "Spin Faster — 29 R$, menos tempo abrindo lucky blocks"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Pack — 9 R$, pet School Chair e 300 Cash"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às dúvidas mais comuns sobre Finish The Word.",
+      "items": [
+        {
+          "question": "O que é Finish The Word?",
+          "answer": "Finish The Word é um party game gratuito de correntes de palavras no Roblox da Table Game X. Os jogadores se revezam dizendo uma palavra que começa com a última letra da anterior, sem repetições, até o timer eliminar os outros."
+        },
+        {
+          "question": "Como funcionam as rodadas em Finish The Word?",
+          "answer": "Em Finish The Word, cada jogador diz uma palavra nova que começa com a última letra da anterior. Palavras repetidas são inválidas, e falhar antes do timer te elimina da rodada."
+        },
+        {
+          "question": "Finish The Word tem códigos?",
+          "answer": "Em julho de 2026, Finish The Word não tem códigos ativos verificados. O progresso vem de vencer rodadas, montar sequências, ganhar cash e colecionar pets. Acompanhe a página do Roblox e o grupo Table Game X."
+        },
+        {
+          "question": "O que os pets fazem em Finish The Word?",
+          "answer": "Pets em Finish The Word concedem habilidades especiais na rodada. Choque-os de ovos, desbloqueie mais com lucky blocks e spins, e equipe os que ajudam você a sobreviver mais."
+        },
+        {
+          "question": "Como funcionam as sequências em Finish The Word?",
+          "answer": "Sequências em Finish The Word recompensam vitórias consecutivas com mais cash e progresso. Proteja sua streak com boas palavras e habilidades de pets, e veja passes focados em streak se farmar ranked."
+        },
+        {
+          "question": "A Finish The Word Wiki é oficial?",
+          "answer": "Não. A Finish The Word Wiki é um site de guias independente feito por fãs e não é afiliada à Table Game X nem à Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Finish The Word?",
+      "description": "Da sua primeira corrente de palavras aos lobbies ranked e builds de pets, nossa wiki ajuda você a sobreviver mais, vencer mais e subir no ranking.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Sumário",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Finish The Word Wiki",
+    "about": "Finish The Word Wiki é um site de guias independente feito por fãs do party game de correntes de palavras da Table Game X no Roblox. Cobrimos como jogar, pets, sequências, ranked e dicas práticas. Não afiliado à Table Game X nem à Roblox Corporation.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "© 2026 Finish The Word Wiki. Não afiliada à Table Game X nem à Roblox.",
+    "description": "Party game gratuito de correntes de palavras no Roblox. Vença o timer, colecione pets, monte sequências e supera cada lobby.",
+    "playGame": "Jogar Finish The Word",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "communityGroup": "Grupo Roblox Table Game X",
+    "vvBuilder": "Grupo Roblox Table Game X",
+    "beginnerGuide": "Guia para iniciantes",
+    "petsGuide": "Guia de pets",
+    "rankedGuides": "Dicas de ranked",
+    "winStreakGuides": "Sequências",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}

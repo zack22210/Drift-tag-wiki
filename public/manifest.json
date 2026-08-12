@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "short_name": "",
+  "description": "",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#fafafa",
+  "theme_color": "#7c3aed",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
