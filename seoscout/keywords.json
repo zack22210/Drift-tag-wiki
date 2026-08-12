@@ -1,5 +1,27 @@
 {
-  "topic_name": "",
-  "languages": ["es", "pt", "id"],
-  "categories": []
+  "topic_name": "drift tap",
+  "categories": [
+    {
+      "category": "guide",
+      "keywords": [
+        "drift tap roblox",
+        "drift tap roblox game"
+      ]
+    },
+    {
+      "category": "reviews",
+      "keywords": [
+        "drift tap first time",
+        "drift tap review"
+      ]
+    },
+    {
+      "category": "videos",
+      "keywords": [
+        "drift tap roblox gameplay",
+        "drift tap roblox drifting",
+        "drift tap video"
+      ]
+    }
+  ]
 }
